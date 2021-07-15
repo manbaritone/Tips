@@ -37,7 +37,7 @@ $ git clone https://github.com/dracula/iterm.git
 (3) Select `Import...` from the list\
 (4) Select `Dracula.itermcolors` file (Normally, this file located at `$HOME` directory of your computer)\
 (5) Select the `Dracula` from `Color Presets...`\
-(6) You can also install plugins, browse plugins at https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins\
+(6) You can also install plugins, browse plugins at https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins \
 (7) Run the `$ source ~/.zshrc` command to apply the changes
 
 <br>
