@@ -1,7 +1,7 @@
 # iTerm2 + Oh My Zsh + Dracula + PowerLevel10k
 
 Refs:\
-(1) https://dev.to/ibrahim_s/iterm2-oh-my-zsh-dracula-theme-plugins-2f9e\
+(1) https://dev.to/ibrahim_s/iterm2-oh-my-zsh-dracula-theme-plugins-2f9e \
 (2) https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
 
 <br>
