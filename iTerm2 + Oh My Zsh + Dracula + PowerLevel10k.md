@@ -46,8 +46,7 @@ $ git clone https://github.com/dracula/iterm.git
 Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 Ref: https://github.com/romkatv/powerlevel10k
 
-(1) Install recommended font at https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k \
-(2) Install Powerlevel10k 
+(1) Install Powerlevel10k 
 ```
 $ git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
 ```
@@ -55,8 +54,8 @@ Then you need to enable the Powerlevel10k theme by changing the value of ZSH_THE
 ```
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
-(3) Open new terminal\
-(4) Setup configuration wizard by type `p10k configure`
+(2) Open new terminal\
+(3) Setup configuration wizard by type `p10k configure`
 
 <br>
 
