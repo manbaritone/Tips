@@ -16,7 +16,7 @@ $ brew install git
 
 <br>
 
-## Install iTerm2
+## Install Oh My Zsh
 ```
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
